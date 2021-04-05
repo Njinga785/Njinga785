@@ -1,7 +1,7 @@
 ### Hi there and welcome to my Github page 👋
 
 
-My name is Laure Adrienne Njinga and i am a junior developper full stack JavaScript. I do a lot of things, and some of them you may even find interesting.
+My name is Laure Adrienne Njinga and i am a junior developper full stack JavaScript. I do a lot of things, and you may even find some of them interesting.
 
 ---
 
