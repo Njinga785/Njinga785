@@ -31,7 +31,7 @@ My name is Laure Adrienne Njinga and i am a junoir developper full stack JavaScr
 
 ### Send me a message 
 
-I am open for collaborations, so if you have some questions about my work, fell free to sendme a message. Here is where you can:
+I am open for collaborations, so if you have some questions about my work, fell free to send me a message. Here is where you can:
 
 *  <a href="https://linkedin.com/in/laure-adrienne-njinga">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin"/>
