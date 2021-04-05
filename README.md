@@ -20,3 +20,18 @@ My name is Laure Adrienne Njinga and i am a junoir developper full stack JavaScr
 <img alt="Sass" src="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white&style=flat"/>
 </p>
 
+---
+
+- I just finished 7 months of intensive training in Javascript by Simplon.co ( from June 2020 - Febuary 2021)
+- During the training I did projects in React.js and Vue.js
+- I haven't finished all my projects but I learned a lot
+- Besides, I always continue to work on those that I have not finished
+
+---
+
+### Send me a message 
+
+I am open for collaborations, so if you have some questions about my work, fell free to sendme a message. Here is where you can
+
+
+
