@@ -18,6 +18,7 @@ My name is Laure Adrienne Njinga and i am a junior developper full stack JavaScr
 <img alt="Html" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white&style=flat"/>
 <img alt="Css" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white&style=flat"/>
 <img alt="Sass" src="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white&style=flat"/>
+<img alt="Wordpress" src="https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white&style=flat"/>
 </p>
 
 ---
