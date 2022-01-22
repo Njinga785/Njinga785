@@ -23,7 +23,7 @@ My name is Laure Adrienne Njinga and i am a junior developper full stack JavaScr
 
 ---
 
-- I just finished 7 months of intensive training in Javascript by Simplon.co ( from June 2020 - Febuary 2021)
+- I did 7 months of intensive training in Javascript by Simplon.co ( from June 2020 - Febuary 2021)
 - During the training I did projects in React.js and Vue.js
 - I haven't finished all my projects but I learned a lot
 - Besides, I always continue to work on those that I have not finished
